@@ -28,7 +28,6 @@ public class kth_element {
 		}
 	
 
-	// This code is contributed by Chhavi
 
 }
 ```
